@@ -14,7 +14,7 @@ sap-sandbox-vehicles は、オンプレミス版である（＝クラウド版�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sap-sandbox-vehicle.drawio.png)
+![リソース整備状況](documents/sap-sandbox-vehicle-20220621-drawio.png)
 
 
 ## sap-sandbox-vehicles における SAP領域・機能 の選択基準
